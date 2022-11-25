@@ -27,7 +27,7 @@ Hello! My name is Pedro, I'm 19 years old and I'm passionate about computing, sp
 
 # 💻 Tech Stack:
 
-### Languages:
+### Skills:
 
 <img style="display:inline;" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img style="display:inline;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img style="display:inline;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <br>
