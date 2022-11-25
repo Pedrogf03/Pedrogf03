@@ -1,7 +1,7 @@
 ![](https://camo.githubusercontent.com/31a2f49c2960bd98e115c536f78f1781d631d2097cbbd73cb006be1aa526246b/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966)
 # 💫 About me:
-I'm passionate about computing, especially programming. Currently studying web developing :P
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fpikachu-pokemon-cute-love-eat-gif-23600383&psig=AOvVaw1LiwFEmBHsCZD4PhsuTd9M&ust=1669455213229000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCOjryDyfsCFQAAAAAdAAAAABAD)
+I'm passionate about computing, especially programming. Currently studying web developing :P <br>
+![](./pikachu-pokemon.gif)
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedrogf.23)
