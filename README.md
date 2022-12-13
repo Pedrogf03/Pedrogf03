@@ -21,7 +21,7 @@ Hello! My name is Pedro, I'm 19 years old and I'm passionate about computing, sp
 <a href="https://open.spotify.com/user/bleikerpro23">
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
-<a href="https://mailto:bleikerpro23@gmail.com">
+<a href="https://bleikerpro23@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://pedro9827.notion.site/Pedro-eef2560a957046fe9e3b52924ceb448a">
