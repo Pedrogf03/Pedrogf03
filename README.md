@@ -51,8 +51,8 @@ Hello! My name is Pedro, I'm 19 years old and I'm passionate about computing, sp
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pedro9827&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro9827&theme=dark&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pedrogf23&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrogf23&theme=dark&hide_border=false" />
 
 ---
 
