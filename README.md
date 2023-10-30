@@ -15,10 +15,7 @@ Hello! My name is Pedro, I'm 19 years old and I'm passionate about computing, sp
 <a href="https://twitter.com/pedrogf_03">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
-<a href="https://facebook.com/pedrogf.03">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-</a>
-<a href="https://open.spotify.com/user/Pedrogf.03">
+<a href="https://open.spotify.com/user/bleikerpro23">
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
 <a href="https://pedro9827.notion.site/Pedro-eef2560a957046fe9e3b52924ceb448a">
