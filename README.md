@@ -27,7 +27,7 @@ Cádiz📍 <br>
 
 ### Skills:
 
-<img style="display:inline;" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img style="display:inline;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img style="display:inline;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img style="display:inline;" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img style="display:inline;" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img style="display:inline;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <br>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="./java.png"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
 <br>
@@ -49,7 +49,4 @@ Cádiz📍 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Pedrogf03&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrogf03&theme=dark&hide_border=false" />
 
----
-
-![GitHub followers](https://img.shields.io/github/followers/Pedrogf03)
-
+https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
