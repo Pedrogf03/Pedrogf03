@@ -2,7 +2,8 @@
 
 # 💫 About me:
 
-Hello! My name is Pedro, I'm 19 years old and I'm passionate about computing, specially programming. I'm currently studying web development in Ceuta, Spain. :P <br>
+Sistemas Microinformáticos, Desarrollo Web y, próximamente, Desarrollo Multiplataforma. <br>
+Cádiz📍 <br>
 
 # 🌐 Socials:
 
