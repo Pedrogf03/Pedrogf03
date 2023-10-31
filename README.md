@@ -48,3 +48,8 @@ Cádiz📍 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pedrogf03&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrogf03&theme=dark&hide_border=false" />
+
+---
+
+![GitHub followers](https://img.shields.io/github/followers/Pedrogf03)
+
