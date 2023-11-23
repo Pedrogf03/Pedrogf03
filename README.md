@@ -2,8 +2,9 @@
 
 # 💫 About me:
 
-Sistemas Microinformáticos, Desarrollo Web y, próximamente, Desarrollo Multiplataforma. <br>
-Cádiz📍 <br>
+Trying to become a full-stack dev.👨🏻‍💻</br>
+20 y/o.🎂 </br>
+Living in Cádiz, Spain.📍 </br>
 
 # 🌐 Socials:
 
