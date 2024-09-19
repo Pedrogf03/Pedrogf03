@@ -6,21 +6,8 @@ Trying to become a full-stack dev.👨🏻‍💻</br>
 Living in Granada, Spain.📍 </br>
 
 # 🌐 Socials:
-
-<a href="https://instagram.com/pedrogf.03">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-<a href="https://tiktok.com/@pedrogf.03">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
-</a>
-<a href="https://twitter.com/pedrogf_03">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-</a>
-<a href="https://open.spotify.com/user/bleikerpro23">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
-</a>
-<a href="https://pedro9827.notion.site/Pedro-eef2560a957046fe9e3b52924ceb448a">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<a href="www.linkedin.com/in/pedro-gonzalez-fernandez-71693b2ba">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 # 💻 Tech Stack:
