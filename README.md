@@ -3,8 +3,7 @@
 # 💫 About me:
 
 Trying to become a full-stack dev.👨🏻‍💻</br>
-20 y/o.🎂 </br>
-Living in Cádiz, Spain.📍 </br>
+Living in Granada, Spain.📍 </br>
 
 # 🌐 Socials:
 
