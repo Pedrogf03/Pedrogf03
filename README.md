@@ -6,7 +6,7 @@ Trying to become a full-stack dev.👨🏻‍💻</br>
 Living in Granada, Spain.📍 </br>
 
 # 🌐 Socials:
-<a href="www.linkedin.com/in/pedro-gonzalez-fernandez-71693b2ba">
+<a href="https://www.linkedin.com/in/pedro-gonzalez-fernandez-71693b2ba">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
