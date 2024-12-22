@@ -1,9 +1,12 @@
-<img src="spain.gif" height=40px>
-
 # 💫 About me:
 
-Trying to become a full-stack dev.👨🏻‍💻</br>
-Living in Granada, Spain.📍 </br>
+I'm Pedro, a Software Developer with certifications in Web Application Development and Multiplatform Application Development, as well as in Microcomputer Systems and Networks. I am currently expanding my knowledge in Cybersecurity in IT Environments.
+
+I have developed several projects during my learning journey, such as PokéSearch, OrdePlay, or GoTravel, which you can explore on my profile.
+
+My passion for programming and new technologies drives me to continuously learn and stay up-to-date with the latest trends in the field.
+
+I'm currently enrolled in the Specialization Course in Cybersecurity in IT Environments at I.E.S. Zaidín-Vergeles, in Granada, Spain. My goal is to continue growing professionally and acquiring new skills to tackle future challenges in this exciting field.
 
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/pedro-gonzalez-fernandez-71693b2ba">
