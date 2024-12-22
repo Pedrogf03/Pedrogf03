@@ -8,7 +8,7 @@ My passion for programming and new technologies drives me to continuously learn 
 
 I'm currently enrolled in the Specialization Course in Cybersecurity in IT Environments at I.E.S. Zaidín-Vergeles, in Granada, Spain. My goal is to continue growing professionally and acquiring new skills to tackle future challenges in this exciting field.
 
-# 🌐 Socials:
+# 🌐 Contact:
 <a href="https://www.linkedin.com/in/pedro-gonzalez-fernandez-71693b2ba">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
