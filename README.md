@@ -1,9 +1,17 @@
-
 # 🫡 Hey, I'm Pedro!
 
-### I'm a junior developer trying to make my path trough this complicated but wonderful world!
+### I'm a junior developer trying to make my path through this complicated but wonderful world of technology!
 
+## 👨‍🎓 About Me
 
+- 🎓 Education: Technician in Web Application Development (DAW), Mobile Application Development (DAM), and Cybersecurity.
+- 💼 Currently interested in: backend development with Java Spring Boot and mobile apps with Flutter.
+- 🧠 Learning: Angular and software architecture best practices.
+- 🎮 Hobbies: video games and technology.
+
+From building my first simple website to deploying real-world projects with Spring Boot, I've grown by experimenting, failing, and learning. I believe in writing clean code, continuous learning, and building meaningful software.
+
+---
 
 ## 🧰 Tech Stack
 
@@ -46,8 +54,17 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## 📈 Stats
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pedrogf03&theme=transparent&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrogf03&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedrogf03&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pedrogf03&layout=compact)
+
+---
+
+## 📫 Contact Me
+
+- 🟦 LinkedIn: [Pedro González Fernández](https://www.linkedin.com/in/pedro-gonzalez-fernandez-71693b2ba/)
+- 📧 Email: pedrogf389@gmail.com
