@@ -1,3 +1,10 @@
+
+# 🫡 Hey, I'm Pedro!
+
+### I'm a junior developer trying to make my path trough this complicated but wonderful world!
+
+
+
 ## 🧰 Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -38,3 +45,9 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+## 📈 Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pedrogf03&theme=transparent&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrogf03&layout=compact)
