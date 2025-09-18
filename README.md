@@ -4,7 +4,7 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓 Education: Technician in Web Application Development (DAW), Mobile Application Development (DAM), and Cybersecurity.
+- 🎓 Education: Technician in Web Application Development (DAW), Mobile Application Development (DAM), Cybersecurity and AI & BD.
 - 💼 Currently interested in: backend development with Java Spring Boot and mobile apps with Flutter.
 - 🧠 Learning: Angular and software architecture best practices.
 - 🎮 Hobbies: video games and technology.
