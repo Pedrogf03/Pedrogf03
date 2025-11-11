@@ -60,7 +60,6 @@ From building my first simple website to deploying real-world projects with Spri
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrogf03&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedrogf03&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pedrogf03&layout=compact)
 
 ---
 
