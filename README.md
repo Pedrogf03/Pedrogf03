@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="98" src="header.svg"  />
+<img align="right" height="94" src="header.svg"  />
 
 <br clear="both">
 
