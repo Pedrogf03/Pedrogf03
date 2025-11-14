@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="85" src="header.png"  />
+<img align="right" height="80" src="header.png"  />
 
 <br clear="both">
 
