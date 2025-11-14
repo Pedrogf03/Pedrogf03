@@ -8,6 +8,7 @@
     font-family="Inter, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
     font-size="56"
     font-weight="700"
+    fill="#FFFFFF"
     text-anchor="middle"
     dominant-baseline="middle">
       🖤 Pedro González Fernández 🖤
@@ -20,6 +21,7 @@
     font-family="Inter, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
     font-size="30"
     font-weight="500"
+    fill="#FFFFFF"
     text-anchor="middle"
     dominant-baseline="middle">
       Software Developer focused on Backend and Big Data
