@@ -10,9 +10,7 @@
 
 ###
 
-<p align="center" style="font-size: 2em">🖤 Pedro González Fernández 🖤</p>
-
-<p align="center">Software Developer focused on Backend and Big Data.</p>
+<img align="right" height="100" src="header.svg"  />
 
 <br clear="both">
 
