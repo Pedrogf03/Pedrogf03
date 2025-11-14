@@ -10,9 +10,9 @@
 
 ###
 
-<p align="center">🖤 Pedro González Fernández 🖤</p>
+<p align="center" style="font-size: 2em">🖤 Pedro González Fernández 🖤</p>
 
-<h2 align="center">Software Developer focused on Backend and Big Data.</h2>
+<p align="center">Software Developer focused on Backend and Big Data.</p>
 
 <br clear="both">
 
